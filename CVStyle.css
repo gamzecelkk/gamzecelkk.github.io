@@ -108,10 +108,10 @@ img{
     display: inline-block;
     width: 30px;
     font-size: 18px;
-    
+   
 }
 
-.contactInfo ul li.text{
+.text{
     color: var(--colorWhite);
     
 }
@@ -268,7 +268,7 @@ p{
         text-align: center;
     }
     .interest ul li{
-        text-align: center;
+        text-align: left;
     }
 }
 
