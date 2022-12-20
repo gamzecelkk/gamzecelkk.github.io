@@ -1,1 +1,0 @@
-# gamzecelkk.github.io
