@@ -25,8 +25,8 @@ body{
 .container{
     position: relative;
     width: 100%;
-    max-width: 100px;
-    min-height: 100px;
+    max-width: 1000px;
+    min-height: 1000px;
     background: #fff;
     margin: 50px;
     display:grid ;
